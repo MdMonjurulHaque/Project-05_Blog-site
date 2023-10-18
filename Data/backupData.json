@@ -1,0 +1,30 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Make My Life Easier",
+      "desc": "At one point, I worked as the internet sales manager at a car dealership. I found a lot of our customers weren't interested in the best way to buy a car, which is save money and pay cash.",
+      "author": "Jamil"
+    },
+    {
+      "id": 2,
+      "title": "It's a Race",
+      "desc": "Sometimes people don't want the best, and they don't want easy - they want fast. In some industries, you see personas that are always in panic mode, needing something done yesterday.",
+      "author": "Monjurul"
+    },
+    {
+      "id": 3,
+      "title": "Backed By Science",
+      "desc": "Humans have a thing called a learning bias. No matter how wise a saying is, we are much more apt to accept it as true if we trust the source. Not only that, but we're fascinated by ultimate truths that spur us into action.",
+      "author": "Monjurul"
+    },
+    {
+      "id": 4,
+      "title": "Experience Has Taught Me Well",
+      "desc": "Experience is the best teacher. But sometimes, the tuition is just too high. Smart people learn from other's mistakes. They also learn from other's success.",
+      "author": "Jamil"
+    }
+    
+
+  ]
+}
