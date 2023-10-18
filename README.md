@@ -1,7 +1,7 @@
-## Click Here to see this project [Review App](https://blogsite-mir.netlify.app/).
+## Click Here to see this project [Blog-Site App](https://blogsite-mir.netlify.app/).
 ### Project-05_Blog-Site
-Public review application 
-This project created for Public Review application. Using language here-> JavaScript, ReactJS, html, css
+Blog-site application 
+This project created for Blog-site application. Using language here-> JavaScript, ReactJS, html, css, Tailwind
 #### Using_language 
   1. JavaScript
 #### FrameWork 
