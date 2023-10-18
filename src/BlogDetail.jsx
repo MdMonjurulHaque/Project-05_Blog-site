@@ -9,10 +9,10 @@ const BlogDetail = () => {
     data: blogs,
     isPending,
     error,
-  } = useFatch("http://localhost:8000/blogs/" + id);
+  } = useFatch("https://mdmonjurulhaque.github.io/apiTest/blogsite.json" + id);
 
   const handleDelete = () => {
-    fetch("http://localhost:8000/blogs/" + id, {
+    fetch("https://mdmonjurulhaque.github.io/apiTest/blogsite.json" + id, {
       method: "DELETE",
     }).then(() => {
       history("/");

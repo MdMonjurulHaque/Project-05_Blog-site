@@ -13,7 +13,7 @@ const AddBlogs = () => {
     const blog = { title, desc, author };
     setIsPending(true);
 
-    fetch("http://localhost:8000/blogs/", {
+    fetch("https://mdmonjurulhaque.github.io/apiTest/blogsite.json/", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(blog),

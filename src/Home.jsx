@@ -7,7 +7,7 @@ const Home = () => {
     error,
     isPending,
     data: blogs,
-  } = useFetch("http://localhost:8000/blogs");
+  } = useFetch("https://mdmonjurulhaque.github.io/apiTest/blogsite.json");
 
 
   return (
